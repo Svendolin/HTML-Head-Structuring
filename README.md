@@ -3,8 +3,7 @@
 ---
 
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Svendolin/HTML-Head-Structuring?style=plastic) ![GitHub contributors](https://img.shields.io/github/contributors/svendolin/HTML-Head-Structuring?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/Svendolin/HTML-Head-Structuring?style=plastic) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Svendolin/HTML-Head-Structuring?color=yellow&style=plastic)
-
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Svendolin/HTML-Head-Structuring?style=for-the-badge) ![GitHub contributors](https://img.shields.io/github/contributors/svendolin/HTML-Head-Structuring?style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/Svendolin/HTML-Head-Structuring?color=pink&style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/Svendolin/HTML-Head-Structuring?style=for-the-badge) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Svendolin/HTML-Head-Structuring?color=yellow&style=for-the-badge)
 ***
 Just CRAZY to see which lines of code you actually put in your HTML-Head from time to time! In case if you've might lost your ```Overview```, this "Musteraufbau" might can help you out!
 
