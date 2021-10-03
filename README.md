@@ -1,8 +1,12 @@
 ***
 # 💥All the things you need in your HTML-Head 💥
+---
+
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Svendolin/HTML-Head-Structuring?style=plastic) ![GitHub contributors](https://img.shields.io/github/contributors/svendolin/HTML-Head-Structuring?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/Svendolin/HTML-Head-Structuring?style=plastic) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Svendolin/HTML-Head-Structuring?color=yellow&style=plastic)
+
+***
 Just CRAZY to see which lines of code you actually put in your HTML-Head from time to time! In case if you've might lost your ```Overview```, this "Musteraufbau" might can help you out!
-
-
 
 
 <span style="color:orange"> Please MAKE SURE you keep an eye on the exact order as its shown in the index.html file. Any changes can cause conflicts, issues or dispaly errors.</span> 
@@ -13,6 +17,7 @@ Just CRAZY to see which lines of code you actually put in your HTML-Head from ti
 ***
 ## Contributing 💤
 ***
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Therefore we can talk about an "issue template", but hopefully that's not necessary. * Smiles *
 
