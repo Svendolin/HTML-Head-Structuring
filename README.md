@@ -2,6 +2,9 @@
 # 💥All the things you need in your HTML-Head 💥
 Just CRAZY to see which lines of code you actually put in your HTML-Head from time to time! In case if you've might lost your ```Overview```, this "Musteraufbau" might can help you out!
 
+
+
+
 <span style="color:orange"> Please MAKE SURE you keep an eye on the exact order as its shown in the index.html file. Any changes can cause conflicts, issues or dispaly errors.</span> 
 
 <br />
