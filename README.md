@@ -35,9 +35,8 @@ Therefore we can talk about an "issue template", but hopefully that's not necess
 ## Table of Contents
 ***
 1. [Technologies](#technologies)
-2. [Installation](#installation)
-3. [Collaboration](#collaboration)
-4. [FAQs](#faqs)
+2. [Collaboration](#collaboration)
+3. [FAQs](#faqs)
 
 <br />
 <br />
